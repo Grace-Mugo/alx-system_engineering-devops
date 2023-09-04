@@ -1,1 +1,1 @@
-Shell Basics & Permissions
+Shell Scripting and command-line operations
